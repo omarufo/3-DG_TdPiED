@@ -18,4 +18,4 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [No és no-
 Mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.[Pedro Mansilla](p6_paqui_valero_jimenez.mp4) 
 
 ##  P7
-[Cuidate]()
+[Cuidate-gif](p7_paqui_valero.gif) - [Cuidate-gif](p7_paqui_valero.mp4)
