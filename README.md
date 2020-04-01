@@ -19,3 +19,8 @@ Mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAl
 
 ##  P7
 Remolinillo [Cuidate-gif](p7_paqui_valero.gif) - [Cuidate-gif](p7_paqui_valero.mp4)
+
+##  P8
+Festival [Coronavirus-jpg](p8_valero_paqui.jpg) 
+
+
