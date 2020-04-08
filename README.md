@@ -24,7 +24,7 @@ Remolinillo [Cuidate-gif](p7_paqui_valero.gif) - [Cuidate-gif](p7_paqui_valero.m
 Festival [Coronavirus-jpg](p8_valero_paqui.jpg)
 
 ##  P9
-Escenario [mac-jpg](p9_paqui_valero.jpg) 
+Escenario [Mac-jpg](p9_paqui_valero.jpg) 
 
 ##  10
-Referents visuals [kandinsky-jpg]() 
+Referents visuals [Missitzky-jpg]() 
