@@ -27,4 +27,4 @@ Festival [Coronavirus-jpg](p8_valero_paqui.jpg)
 Escenario [Mac-jpg](p9_paqui_valero.jpg) 
 
 ##  10
-Referents visuals [Missitzky-jpg]() 
+Referents visuals [Lissitzky-jpg]() 
