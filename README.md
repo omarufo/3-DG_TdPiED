@@ -26,4 +26,5 @@ Festival [Coronavirus-jpg](p8_valero_paqui.jpg)
 ##  P9
 Escenario [mac-jpg](p9_paqui_valero.jpg) 
 
-
+##  10
+Referents visuals [kandinsky-jpg]() 
