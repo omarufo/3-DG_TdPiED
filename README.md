@@ -28,3 +28,7 @@ Escenario [Mac-jpg](p9_paqui_valero.jpg)
 
 ##  10
 Referents visuals [Lissitzky-jpg](p10_paqui_valero.jpg) 
+
+##  11
+
+##  PRACTICAS EXTRA PARA SUBIR NOTA
