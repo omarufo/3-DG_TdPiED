@@ -34,7 +34,7 @@ Personaje  [Piña-jpg](p11_paqui_valero.jpg)
 
 # PRACTICAS EXTRA PARA SUBIR NOTA
 · 1 [Crea y diseña](p1_extra_paqui_valero.gif)
-· 2 [Mar](p2_extra_paqui_valeroo.gif)
+* 2 [Mar](p2_extra_paqui_valeroo.gif)
 · 3 [Movedizo](p3_extra_paqui_valero.gif)
 · 4 [Todo saldra bien](p4_extra_paqui_valero.gif)
 · 5 [Personaje despues de la cuarentena](p5_extra_paqui_valero.jpg)
