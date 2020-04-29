@@ -30,6 +30,6 @@ Escenario [Mac-jpg](p9_paqui_valero.jpg)
 Referents visuals [Lissitzky-jpg](p10_paqui_valero.jpg) 
 
 ##  11
-Personaje [Piña-jpg] (p11_paqui_valero.jpg)
+Personaje  [Piña-jpg](p11_paqui_valero.jpg)
 
 ##  PRACTICAS EXTRA PARA SUBIR NOTA
