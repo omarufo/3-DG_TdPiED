@@ -33,6 +33,4 @@ Referents visuals [Lissitzky-jpg](p10_paqui_valero.jpg)
 Personaje  [Piña-jpg](p11_paqui_valero.jpg)
 
 ##  PRACTICAS EXTRA PARA SUBIR NOTA
-##  1 
-
-[Crea y diseña](p1_extra_paqui_valero.gif)
+##  1 [Crea y diseña](p1_extra_paqui_valero.gif)
