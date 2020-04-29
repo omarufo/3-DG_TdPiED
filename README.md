@@ -42,9 +42,9 @@ Personaje  [Piña-jpg](p11_paqui_valero.jpg)
 * 7 [Bahuaus habitación](p7_extra_paqui_valero.jpg)
 * 8 [Geometria](p8_extra_paqui_valero.jpg)
 * 9 [39 dias de cuarentena con estos pelos](p9_extra_paqui_valero.mp4)
-*10 [Explosión geometria](p10_extra_paqui_valero.mp4)
-*11 [Habitación geometrica](p11_extra_paqui_valero.mp4)
-*12 [Desde la ventana coronavirus](p12_extra_paqui_valero.mp4)
+* 10 [Explosión geometria](p10_extra_paqui_valero.mp4)
+* 11 [Habitación geometrica](p11_extra_paqui_valero.mp4)
+* 12 [Desde la ventana coronavirus](p12_extra_paqui_valero.mp4)
 
 
 
