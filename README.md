@@ -33,4 +33,19 @@ Referents visuals [Lissitzky-jpg](p10_paqui_valero.jpg)
 Personaje  [Piña-jpg](p11_paqui_valero.jpg)
 
 # PRACTICAS EXTRA PARA SUBIR NOTA
- 1 [Crea y diseña](p1_extra_paqui_valero.gif)
+· 1 [Crea y diseña](p1_extra_paqui_valero.gif)
+· 2 [Mar](p2_extra_paqui_valeroo.gif)
+· 3 [Movedizo](p3_extra_paqui_valero.gif)
+· 4 [Todo saldra bien](p4_extra_paqui_valero.gif)
+· 5 [Personaje despues de la cuarentena](p5_extra_paqui_valero.jpg)
+· 6 [Viaje](p6_extra_paqui_valero.jpg)
+· 7 [Bahuaus habitación](p7_extra_paqui_valero.jpg)
+· 8 [Geometria](p8_extra_paqui_valero.jpg)
+· 9 [39 dias de cuarentena con estos pelos](p9_extra_paqui_valero.mp4)
+·10 [Explosión geometria](p10_extra_paqui_valero.mp4)
+·11 [Habitación geometrica](p11_extra_paqui_valero.mp4)
+·12 [Desde la ventana coronavirus](p12_extra_paqui_valero.mp4)
+
+
+
+
