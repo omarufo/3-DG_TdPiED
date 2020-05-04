@@ -30,7 +30,7 @@ Escenario [Mac-jpg](p9_paqui_valero.jpg)
 Referents visuals [Lissitzky-jpg](p10_paqui_valero.jpg) 
 
 ##  11
-Personaje  [Piña-jpg](p11_paqui_valero.jpg)
+Personaje  [Piña-jpg](p11_paqui_valero.jpg) [Piña con gafas(modelo 3D descargado)-jpg](p11_conmodelo3d_paqui_valero.jpg)
 
 # PRACTICAS EXTRA PARA SUBIR NOTA
 * 1 [Crea y diseña](p1_extra_paqui_valero.gif)
