@@ -30,7 +30,7 @@ Escenario [Mac-jpg](p9_paqui_valero.jpg)
 Referents visuals [Lissitzky-jpg](p10_paqui_valero.jpg) 
 
 ##  11
-Personaje  [Piña-jpg](p11_paqui_valero.jpg) [Piña con gafas(modelo 3D descargado)-jpg](p11_conmodelo3d_paqui_valero.jpg)
+Personaje  [Piña-jpg](p11_paqui_valero.jpg) / [Piña con gafas(modelo 3D descargado)-jpg](p11_conmodelo3d_paqui_valero.jpg)
 
 # PRACTICAS EXTRA PARA SUBIR NOTA
 * 1 [Crea y diseña](p1_extra_paqui_valero.gif)
@@ -45,6 +45,7 @@ Personaje  [Piña-jpg](p11_paqui_valero.jpg) [Piña con gafas(modelo 3D descarga
 * 10 [Explosión geometria](p10_extra_paqui_valero.mp4)
 * 11 [Habitación geometrica](p11_extra_paqui_valero.mp4)
 * 12 [Desde la ventana coronavirus](p12_extra_paqui_valero.mp4)
+* 13 [Personaje Fresita](p12_extra_paqui_valero.mp4)
 
 
 
