@@ -45,7 +45,8 @@ Personaje  [Piña-jpg](p11_paqui_valero.jpg) / [Piña con gafas(modelo 3D descar
 * 10 [Explosión geometria](p10_extra_paqui_valero.mp4)
 * 11 [Habitación geometrica](p11_extra_paqui_valero.mp4)
 * 12 [Desde la ventana coronavirus](p12_extra_paqui_valero.mp4)
-* 13 [Personaje Fresita](p12_extra_paqui_valero.mp4)
+* 13 [Personaje Fresita](p13_extra_paqui_valero.jpg)
+* 14 [Personaje Manzanita](p14_extra_paqui_valero.jpg)
 
 
 
